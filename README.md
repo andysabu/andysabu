@@ -98,7 +98,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: http://andysabu.github.io
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
