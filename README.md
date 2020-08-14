@@ -2,9 +2,9 @@
 [How-To](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=762s)
 
 
-### Hi there, I'm Jesse - aka [AndySaBu][website] 👋
+### Hi there, I'm Andrés - aka [AndySaBu][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
